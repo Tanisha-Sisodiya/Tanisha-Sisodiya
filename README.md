@@ -1,11 +1,27 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Enthusiast;React+%2B+Node.js+Developer&center=true&width=500&height=45">
+</p>
+
 # Tanisha Sisodiya
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanisha Sisodiya
 ========================================================================================================================================
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [24cs2057@rgipt.ac.in](mailto:24cs2057@rgipt.ac.in)
-* 🧠  I'm learning frontend development
+💻 Full-Stack Developer | 🤖 AI Enthusiast
+🚀 Building scalable web applications and AI-powered tools
+
+👩‍💻 About Me
+🌍 Based in India
+✉️ Contact: 24cs3057@rgipt.ac.in
+🎓 B.Tech CSE @ RGIPT
+⚡ Strong in Data Structures & Web Development
+🚀 Projects
+🔹 EchoMind – AI-powered full-stack web app (React, Node.js, MongoDB, OpenAI API)
+🔹 AI Help Bot – Semantic search-based assistant (FastAPI, NLP)
+🔹 Carbon Footprint Tracker – Sustainability analytics platform
+🔹 Portfolio Website – Personal developer portfolio
+
+⭐ Always learning, building, and exploring new technologies.
 
 ### Skills
 
