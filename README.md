@@ -15,6 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ✉️ Contact: 24cs3057@rgipt.ac.in  <br>
 🎓 B.Tech CSE @ RGIPT  <br>
 ⚡ Strong in Data Structures & Web Development <br>
+
 🚀 Projects <br>
 🔹 EchoMind – AI-powered full-stack web app (React, Node.js, MongoDB, OpenAI API) <br>
 🔹 AI Help Bot – Semantic search-based assistant (FastAPI, NLP) <br>
@@ -54,7 +55,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanisha-Sisodiya&theme=github-dark&hide_border=true" />
 </p>
-isha-Sisodiya"><img src="https://github-readme-stats.vercel.app/api?username=Tanisha-Sisodiya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tanisha-Sisodiya's GitHub stats" /></a>
+Tanisha-Sisodiya"><img src="https://github-readme-stats.vercel.app/api?username=Tanisha-Sisodiya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tanisha-Sisodiya's GitHub stats" /></a>
 
 <a href="http://www.github.com/Tanisha-Sisodiya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tanisha-Sisodiya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
